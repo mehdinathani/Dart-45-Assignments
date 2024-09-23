@@ -6,8 +6,8 @@ Learn Dart for Flutter in 45 baby steps. Complete each assignment to learn it.
 Note: Try these short programs to get some firsthand experience with Dart and Flutter. You might want to create a new folder for each exercise to keep them organized. Create a single Github repository to commit the code for these exercises and once finished submit the URL of the repo.
 
 1.  Install Flutter and [VS Code](https://code.visualstudio.com/) on your computer.
-2.  Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
-3.  Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
+2.  Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Flutter today?”
+3.  Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase.
 4.  Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
 
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
@@ -19,7 +19,7 @@ Albert Einstein once said, “A person who never made a mistake never tried anyt
 
 * * *
 
-console.log(5 + 3)
+print(5 + 3)
 
 * * *
 
@@ -87,9 +87,9 @@ Your output should simply be four lines with the number 8 appearing once on each
 
 let car = 'subaru';
 
-console.log("Is car == 'subaru'? I predict True.")
+print("Is car == 'subaru'? I predict True.")
 
-console.log(car == 'subaru')
+print(car == 'subaru')
 
 • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 
